@@ -16,7 +16,7 @@ npm start
 Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 ## Deploying to Heroku
-
+**we've deprecated Heroku for Railway**
 ```
 heroku create
 git push heroku master
