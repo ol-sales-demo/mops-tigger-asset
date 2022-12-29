@@ -12,6 +12,7 @@ cd node-js-sample
 npm install
 npm start
 ```
+## backups ## disaster recovery ## dependencies
 
 Your app should now be running on [localhost:5000](http://localhost:5000/).
 
